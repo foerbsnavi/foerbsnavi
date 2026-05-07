@@ -4,11 +4,6 @@ Webentwickler aus Deutschland. Ich baue kleine, schnelle Tools — meistens mit 
 
 Mein Stil: serverarme Architektur, klare Bedienung, alles im Browser.
 
-## Web
+## Beispiele
 
-- [fabianbrose.de](https://fabianbrose.de/)
-- [brosemedien.de](https://brosemedien.de/)
-- [signalwelt.de](https://signalwelt.de/)
-- [erbekatalog.de](https://erbekatalog.de/)
-- [foerbs-labyrinth.de](https://foerbs-labyrinth.de/)
-- [xdr5.de](https://xdr5.de/)
+[fabianbrose.de](https://fabianbrose.de/) · [brosemedien.de](https://brosemedien.de/) · [signalwelt.de](https://signalwelt.de/) · [erbekatalog.de](https://erbekatalog.de/) · [foerbs-labyrinth.de](https://foerbs-labyrinth.de/) · [xdr5.de](https://xdr5.de/)
