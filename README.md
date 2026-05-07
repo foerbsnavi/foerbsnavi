@@ -1,8 +1,8 @@
 # Hi, ich bin Foerb
 
-Webentwickler aus Deutschland. Ich baue kleine, schnelle Tools — meistens mit PHP und Vanilla-JavaScript, oft ganz ohne Datenbank und ohne Login.
+Webentwickler aus Deutschland. Ich baue kleine, schnelle Tools — meistens mit PHP und JavaScript, oft ganz ohne Datenbank und ohne Login.
 
-Mein Stil: serverarme Architektur, klare Bedienung, alles im Browser.
+Mein Stil: serverarme Architektur, einfache Bedienung, alles im Browser.
 
 ## Beispiele
 
