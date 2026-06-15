@@ -6,8 +6,8 @@ Mein Stil: serverarme Architektur, einfache Bedienung, alles im Browser.
 
 ## Auf GitHub
 
-- **[Konzertplaner](https://github.com/foerbsnavi/Konzertplaner)** — Konzertprogramme gemeinsam planen: Drag&Drop-Programm, Player mit Wellenform & Markern, Noten, Freigabe per Link. → [konzertplaner.brosemedien.de](https://konzertplaner.brosemedien.de/)
-- **[Notenberechner](https://github.com/foerbsnavi/Notenberechner)** — sieben Werkzeuge für Lehrkräfte: Notenschlüssel, Klausurstatistik, Blocknoten, Beurteilung. → [noten.brosemedien.de](https://noten.brosemedien.de/)
+- **[Konzertplaner](https://github.com/foerbsnavi/Konzertplaner)** — Konzertprogramme planen: Player mit Markern, Noten, Freigabe per Link. → [konzertplaner.brosemedien.de](https://konzertplaner.brosemedien.de/)
+- **[Notenberechner](https://github.com/foerbsnavi/Notenberechner)** — sieben Werkzeuge für Lehrkräfte: Notenschlüssel, Statistik, Blocknoten & mehr. → [noten.brosemedien.de](https://noten.brosemedien.de/)
 - **[Rastergenerator](https://github.com/foerbsnavi/Rastergenerator)** — Linien-, Punkt-, Karo-, Hexagonal- und Notenraster als PDF, SVG, PNG. → [raster.brosemedien.de](https://raster.brosemedien.de/)
 - **[OBDex](https://github.com/foerbsnavi/OBDex)** — offene Datenbank für OBD-II-Diagnosecodes (CC0). → [obd.signalwelt.de](https://obd.signalwelt.de/)
 - **[XDR5](https://github.com/foerbsnavi/XDR5)** — Doku & Beispiele zur TRYX-Bezahlintegration eines künstlerischen Währungssystems. → [xdr5.de](https://xdr5.de/)
