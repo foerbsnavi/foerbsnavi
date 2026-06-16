@@ -6,7 +6,7 @@ Mein Stil: serverarme Architektur, einfache Bedienung, alles im Browser.
 
 ## Auf GitHub
 
-- **[XrechnungMega](https://github.com/foerbsnavi/XrechnungMega)** — XRechnungen (EN 16931) erstellen, verwalten und versenden: normkonformes XML, PDF-Belege, REST-API — ohne Datenbank. → [xrechnung.brosemedien.de](https://xrechnung.brosemedien.de/)
+- **[XrechnungMega](https://github.com/foerbsnavi/XrechnungMega)** — XRechnungen (EN 16931) erstellen: XML, PDF, REST-API. → [xrechnung.brosemedien.de](https://xrechnung.brosemedien.de/)
 - **[Konzertplaner](https://github.com/foerbsnavi/Konzertplaner)** — Konzertprogramme planen: Player mit Markern, Noten, Freigabe per Link. → [konzertplaner.brosemedien.de](https://konzertplaner.brosemedien.de/)
 - **[Notenberechner](https://github.com/foerbsnavi/Notenberechner)** — sieben Werkzeuge für Lehrkräfte: Notenschlüssel, Statistik, Blocknoten & mehr. → [noten.brosemedien.de](https://noten.brosemedien.de/)
 - **[Rastergenerator](https://github.com/foerbsnavi/Rastergenerator)** — Linien-, Punkt-, Karo-, Hexagonal- und Notenraster als PDF, SVG, PNG. → [raster.brosemedien.de](https://raster.brosemedien.de/)
