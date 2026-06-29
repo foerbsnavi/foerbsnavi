@@ -6,7 +6,7 @@ Mein Stil: serverarme Architektur, einfache Bedienung, alles im Browser.
 
 ## Auf GitHub
 
-- **[funkfeld](https://github.com/foerbsnavi/funkfeld)** — selbstgehostetes Organisations-Dashboard: Flächen, Live-Karte & eigene Widgets, ohne Datenbank. → [funkfeld.brosemedien.de](https://funkfeld.brosemedien.de/)
+- **[funkfeld](https://github.com/foerbsnavi/funkfeld)** — selbstgehostetes Organisations-Dashboard: Flächen, Live-Karte & eigene Widgets → [funkfeld.brosemedien.de](https://funkfeld.brosemedien.de/)
 - **[XrechnungMega](https://github.com/foerbsnavi/XrechnungMega)** — XRechnungen (EN 16931) erstellen: XML, PDF, REST-API. → [xrechnung.brosemedien.de](https://xrechnung.brosemedien.de/)
 - **[Konzertplaner](https://github.com/foerbsnavi/Konzertplaner)** — Konzertprogramme planen: Player mit Markern, Noten, Freigabe per Link. → [konzertplaner.brosemedien.de](https://konzertplaner.brosemedien.de/)
 - **[Notenberechner](https://github.com/foerbsnavi/Notenberechner)** — sieben Werkzeuge für Lehrkräfte: Notenschlüssel, Statistik, Blocknoten & mehr. → [noten.brosemedien.de](https://noten.brosemedien.de/)
