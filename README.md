@@ -12,6 +12,7 @@ Mein Stil: serverarme Architektur, einfache Bedienung, alles im Browser.
 - **[Notenberechner](https://github.com/foerbsnavi/Notenberechner)** — sieben Werkzeuge für Lehrkräfte: Notenschlüssel, Statistik, Blocknoten & mehr. → [noten.brosemedien.de](https://noten.brosemedien.de/)
 - **[Rastergenerator](https://github.com/foerbsnavi/Rastergenerator)** — Linien-, Punkt-, Karo-, Hexagonal- und Notenraster als PDF, SVG, PNG. → [raster.brosemedien.de](https://raster.brosemedien.de/)
 - **[OBDex](https://github.com/foerbsnavi/OBDex)** — offene Datenbank für OBD-II-Diagnosecodes (CC0). → [obd.signalwelt.de](https://obd.signalwelt.de/)
+- **[pedelex](https://github.com/foerbsnavi/pedelex)** — offene Datenbank für E-Bike-Fehlercodes: Bosch, Shimano STEPS & Co. (CC0). → [ebike.signalwelt.de](https://ebike.signalwelt.de/)
 - **[XDR5](https://github.com/foerbsnavi/XDR5)** — Doku & Beispiele zur TRYX-Bezahlintegration eines künstlerischen Währungssystems. → [xdr5.de](https://xdr5.de/)
 - **[CMF](https://github.com/foerbsnavi/CMF)** — minimalistisches, dateibasiertes CMS mit API für KI-Agenten. → [cmf.brosemedien.de](https://cmf.brosemedien.de/)
 
