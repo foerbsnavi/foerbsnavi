@@ -6,7 +6,7 @@ Mein Stil: serverarme Architektur, einfache Bedienung, alles im Browser.
 
 ## Auf GitHub
 
-- **[007DataDestroyer](https://github.com/foerbsnavi/007DataDestroyer)** — „Dead Man's Switch" fürs Web: löscht ein Verzeichnis automatisch, wenn der grüne Recovery-Knopf nicht rechtzeitig gedrückt wird. Reines PHP.
+- **[007DataDestroyer](https://github.com/foerbsnavi/007DataDestroyer)** — „Dead Man's Switch" fürs Web: löscht ein Verzeichnis, wenn der grüne Knopf nicht rechtzeitig gedrückt wird.
 - **[funkfeld](https://github.com/foerbsnavi/funkfeld)** — selbstgehostetes Organisations-Dashboard: Flächen, Live-Karte & eigene Widgets → [funkfeld.brosemedien.de](https://funkfeld.brosemedien.de/)
 - **[XrechnungMega](https://github.com/foerbsnavi/XrechnungMega)** — XRechnungen (EN 16931) erstellen: XML, PDF, REST-API. → [xrechnung.brosemedien.de](https://xrechnung.brosemedien.de/)
 - **[Konzertplaner](https://github.com/foerbsnavi/Konzertplaner)** — Konzertprogramme planen: Player mit Markern, Noten, Freigabe per Link. → [konzertplaner.brosemedien.de](https://konzertplaner.brosemedien.de/)
